@@ -1,5 +1,9 @@
 # opti-fiber-comm-sys
-optical fiber communication systems, documents, and codes
+Optical fiber communication systems, documents, and codes
 
-## Test
-This project just starting, there is no valuable file updating.
+## Program Language
+
+Python/MATLAB
+
+## Introduction
+This project is just for learning python.
